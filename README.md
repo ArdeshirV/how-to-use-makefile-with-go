@@ -120,7 +120,7 @@ https://github.com/ArdeshirV/how-to-use-makefile-with-go/
     git clone https://github.com/ArdeshirV/how-to-use-makefile-with-go/
 
 
-### این پروژه را تقدیم می‌کنم به استاد عزیزم [❤روزبه شریفی نصب❤](https://github.com/rsharifnasab) 
+### این پروژه را تقدیم می‌کنم به استاد عزیزم [❤روزبه شریف نسب❤](https://github.com/rsharifnasab) 
 
 #ArdeshirV
 
